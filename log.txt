@@ -1,0 +1,2 @@
+ERROR:root:error.information
+CRITICAL:root:critical.information
