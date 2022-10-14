@@ -5,6 +5,6 @@ pot=int(num)# convert to string to integer
 print(type(pot))
 
 if pot%2==0:
-    print('number is even')
+    print('number is Eveennnnnnnn')
 else:
     print("number is odd")
